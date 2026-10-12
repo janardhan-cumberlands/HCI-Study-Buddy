@@ -115,7 +115,7 @@ HCI-Study-Buddy/
 ├── .gitignore
 ├── LICENSE
 ├── TESTING_NOTES.md
-└── screenshots/
+
 ```
 
 The `.venv` virtual environment and downloaded model files should remain local and should not be uploaded to GitHub.
