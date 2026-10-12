@@ -1,0 +1,7 @@
+
+# Dependencies for HCI Study Buddy
+# Tested in the development environment on Windows with Python 3.14.3
+
+gradio==6.30.0
+transformers==5.19.0
+torch==2.14.1
